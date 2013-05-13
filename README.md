@@ -1,0 +1,1 @@
+Simple Chrome-Extension to hide all "Promoted Tweets" on Twitter.com
